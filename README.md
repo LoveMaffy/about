@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maxchost
-- 👀 I’m interested in Network security
+- 👋 大家好啊，我是一名安全爱好者
+- 👀 我对逆向破解感兴趣
 - 🌱 I’m currently learning Network security
 - 💞️ I’m looking to collaborate on Network security
 - 📫 How to reach me 2571314602@qq.com
