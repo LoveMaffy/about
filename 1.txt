@@ -1,1 +1,9 @@
 https://nas.hzvcloud.com:5001/sharing/X2x60qeJE 
+https://nas.hzvcloud.com:5001/sharing/X2x60qeJE 
+
+vs_buildtools.exe --layout C:\VS_BuildTools_Offline --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended --lang en-US
+vs_buildtools.exe --layout C:\VS2022CppOfflineFull --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended --includeOptional --lang en-US-verify
+vs_buildtools.exe --layout C:\VS_BuildTools_Offline --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended --lang zh-CN --verify
+
+
+vs_buildtools.exe --noweb --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended --includeOptional
